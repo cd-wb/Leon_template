@@ -1,6 +1,6 @@
 # Leon template HTML & CSS learning
 
-Responsive webpage with HTML and CSS and learning in the course of [Elzero Web school]().
+Responsive webpage with HTML and CSS and learning in the course of [Elzero Web school](https://github.com/ElzeroWebSchool).
 ![](./images/screenshot.png)
 
 ## Table of contents
