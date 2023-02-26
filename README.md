@@ -40,5 +40,5 @@ Users should be able to:
 
 ### Useful resources
 
-- [structur](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) - her you can see the structur of building the webpage. 
+- [structur](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) - her you can see the structur of building this webpage. 
 
