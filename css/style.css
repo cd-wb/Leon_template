@@ -103,7 +103,7 @@ body{
     width: 30px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: end;
+    justify-content: flex-end;
 }
 .icon span{
     height: 3px;
